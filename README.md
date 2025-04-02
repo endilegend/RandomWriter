@@ -58,7 +58,7 @@ This project performs a character-level statistical analysis of H.G. Wells’ *T
 3. Run the script:
 
 ```bash
-python char_analysis.py
+python program1.py
 ```
 
 4. Review the generated text and frequency statistics in the console or output files.
